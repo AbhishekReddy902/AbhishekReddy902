@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-
+- 🥇 Certificate Program in Data Analyst — **NASSCOM FutureSkills Prime** (Gold | 90%)
 - 🎓 Certified Data Analyst from **ExcelR**
 - 💼 Ex-Intern at **Aivariant**
 - 🔍 Passionate about turning raw data into meaningful insights
