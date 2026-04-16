@@ -9,7 +9,7 @@
 - 💼 Ex-Intern at **Aivariant**
 - 🔍 Passionate about turning raw data into meaningful insights
 - 📍 Based in **Bengaluru, India**
-- 🚀 Currently looking for **Data Analyst opportunities**
+- 🚀 Seeking to leverage analytical expertise in a growth-oriented organization.
 
 ---
 
@@ -41,6 +41,7 @@
 | 🏦 Banking Analytics Dashboard | SQL, Power BI, Tableau |
 | 💰 Business Intelligence Dashboard | Excel |
 | 🛒 Olist E-Commerce Store Analysis | SQL, Excel, Power BI, Tableau |
+| 🌍telco-customer-churn-analysis | Power bi, Sql
 
 ---
 
@@ -60,6 +61,7 @@
 - 🥇 Certificate Program in Data Analyst — **NASSCOM FutureSkills Prime** (Gold | 90%)
 - ✅ Data Analytics Certification — **ExcelR**
 - ✅ Data Analyst Internship — **Aivariant**
+- ✅ Introduction to Data Analytics — **Simplilearn** 
 - ✅ Excel Data Analysis —  **Microsoft**
 - ✅ Power BI Micro Course — **SkillCourse**
 - ✅ BCG Data Analytics Simulation — **Forage**
